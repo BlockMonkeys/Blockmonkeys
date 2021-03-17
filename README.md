@@ -10,4 +10,4 @@
 + 🎓 Currently, I am enrolled in Master of Software Technology in Kookmin Univ. in KOREA
 ---
 
-![](https://user-images.githubusercontent.com/66409384/111483691-5f528180-8778-11eb-920f-a86e00cf22ca.gif){: width="100%" height="100%"}
+![](https://user-images.githubusercontent.com/66409384/111483691-5f528180-8778-11eb-920f-a86e00cf22ca.gif)
