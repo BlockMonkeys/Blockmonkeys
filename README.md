@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Che-ri&fontAlign=70&fontAlignY=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=BlockMonkey&fontAlign=70&fontAlignY=40&animation=twinkling)
 
 ## MERN Stack Server Developer, Blockmonkey 👨🏻‍💻
 
