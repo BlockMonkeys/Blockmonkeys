@@ -11,7 +11,7 @@
 
 ---
 + 📖 Start Programming Study, Since 2020.07~ ing....
-+ 💻 FullStack Software Engineer focused on **Back-end** using MERN
++ 💻 Software Engineer focused on **MERN & BlockChain**
 + 🎓 Graduated HonkIk Univ. majored Business Administration in KOREA
 + 🎓 Currently, I am enrolled in Master of Software Technology in Kookmin Univ. from KOREA
 ---
