@@ -16,7 +16,7 @@
 + 🎓 Currently, I am enrolled in Master of Software Technology in Kookmin Univ. from KOREA
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blockmonkeys&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blockmonkeys&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
