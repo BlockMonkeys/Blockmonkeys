@@ -18,10 +18,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blockmonkeys&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
 ---
-
-
-![kk](https://user-images.githubusercontent.com/66409384/124872339-1ca30680-e000-11eb-95f8-71d751ab2a37.gif)
